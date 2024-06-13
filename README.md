@@ -6,3 +6,5 @@ GitHub入门
 this is feature-a test
 
 modify test
+
+branch b
